@@ -1,2 +1,1 @@
-# binary.mount.ram.disk
-create a simgle file of a ram disk file binary id a separeted key
+pack files to send all parts to internet like zip files but not compress
